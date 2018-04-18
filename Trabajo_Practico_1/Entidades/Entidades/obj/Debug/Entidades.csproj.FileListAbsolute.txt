@@ -1,0 +1,10 @@
+E:\Tp_1\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Tp_1\Entidades\Entidades\bin\Debug\Entidades.dll
+E:\Tp_1\Entidades\Entidades\bin\Debug\Entidades.pdb
+E:\Tp_1\Entidades\Entidades\obj\Debug\Entidades.dll
+E:\Tp_1\Entidades\Entidades\obj\Debug\Entidades.pdb
+F:\Tp_1\Entidades\Entidades\bin\Debug\Entidades.dll
+F:\Tp_1\Entidades\Entidades\bin\Debug\Entidades.pdb
+F:\Tp_1\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\Tp_1\Entidades\Entidades\obj\Debug\Entidades.dll
+F:\Tp_1\Entidades\Entidades\obj\Debug\Entidades.pdb
